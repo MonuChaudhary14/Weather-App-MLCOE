@@ -262,7 +262,7 @@ body{
     background-color: gray;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 5500px) {
 
     .wrapper{
         overflow-x: hidden;
@@ -273,15 +273,15 @@ body{
     }
 
     .weather-name{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     .date{
-    font-size: 1rem;
+    font-size: 0.8rem;
     }
 
     .input{
-        width: 250px;
+        width: 200px;
     }
 
     .multi-info-container{
