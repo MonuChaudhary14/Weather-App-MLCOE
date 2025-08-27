@@ -261,3 +261,34 @@ body{
 .button-color{
     background-color: gray;
 }
+
+@media (max-width: 500px) {
+
+    .wrapper{
+        overflow-x: hidden;
+    }
+
+    .card-container{
+        width: 90%;
+    }
+
+    .weather-name{
+        font-size: 1.5rem;
+    }
+
+    .date{
+    font-size: 1rem;
+    }
+
+    .input{
+        width: 250px;
+    }
+
+    .multi-info-container{
+        width: 100%;
+    }
+
+    .windspeed-container, .humidity-container, .clouds-container{
+        width: 100%;
+}
+}
