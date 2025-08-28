@@ -262,7 +262,7 @@ body{
     background-color: gray;
 }
 
-@media (max-width: 5500px) {
+@media (max-width: 550px) {
 
     .wrapper{
         overflow-x: hidden;
