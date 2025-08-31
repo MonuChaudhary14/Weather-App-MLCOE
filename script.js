@@ -20,8 +20,6 @@ let lat;
 let long;
 const date = document.querySelector(".date");
 
-const API_key = "f6f3b0a1014558c112e25df31fe27a24";
-
 initial();
 
 
